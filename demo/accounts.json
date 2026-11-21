@@ -1,0 +1,66 @@
+[
+  {
+    "id": "admin",
+    "label": "Platform administrator",
+    "hint": "Every company, every finding, revenue and payouts.",
+    "name": "Fake Admin",
+    "email": "admin@fake.example",
+    "role": "admin"
+  },
+  {
+    "id": "team",
+    "label": "NO SIGNAL hunter",
+    "hint": "Reviews findings for the companies placed with them and sees their own pay.",
+    "name": "Omar Hassan",
+    "email": "omar@fake.example",
+    "role": "team"
+  },
+  {
+    "id": "company",
+    "label": "Company owner",
+    "hint": "Atlas Clinic: assessments, verified findings, billing and the watch.",
+    "name": "Dr. Mariam Saad",
+    "email": "atlas@fake.example",
+    "role": "company"
+  },
+  {
+    "id": "client",
+    "label": "Company employee",
+    "hint": "Atlas Clinic staff: follow findings and keep the watch up to date.",
+    "name": "Hany Wael",
+    "email": "atlas.staff@fake.example",
+    "role": "company"
+  },
+  {
+    "id": "viewer",
+    "label": "Company viewer",
+    "hint": "Atlas Clinic, read only.",
+    "name": "Rana Tarek",
+    "email": "atlas.viewer@fake.example",
+    "role": "company"
+  },
+  {
+    "id": "unpaid",
+    "label": "Company with a balance due",
+    "hint": "Pixel Studio: findings stay locked until a payment covers them.",
+    "name": "Rami Qasem",
+    "email": "pixel@fake.example",
+    "role": "company"
+  },
+  {
+    "id": "hunter",
+    "label": "Bug hunter",
+    "hint": "Programs picked for them, reports, rewards and payout details.",
+    "name": "Ali Freelance",
+    "email": "ali.hunter@fake.example",
+    "role": "hunter"
+  },
+  {
+    "id": "hunterTwo",
+    "label": "New bug hunter",
+    "hint": "Just joined: still choosing what to hunt.",
+    "name": "Karim Root",
+    "email": "karim.hunter@fake.example",
+    "role": "hunter"
+  }
+]
