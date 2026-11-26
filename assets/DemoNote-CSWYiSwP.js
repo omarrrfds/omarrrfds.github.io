@@ -1,0 +1,1 @@
+import{j as e}from"./index-Y0xZz35h.js";function t({children:o}){return e.jsxs("p",{className:"ts-notice dm-simulated",role:"note",children:[e.jsx("strong",{children:"Demo."})," ",o]})}export{t as D};
